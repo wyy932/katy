@@ -1,0 +1,18 @@
+{
+    "name": "B2uu",
+    "description": "Beauty Your Desktop.",
+    "keywords": ["B2uu"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "6ee33f01-972c-4453-a060-cd302f3ddac3"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "https://github.com/wyy932/katy.git",
+    "repository": "https://github.com/wyy932/katy.git",
+    "stack": "container"
+}
